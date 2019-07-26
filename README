@@ -1,6 +1,7 @@
 This is a small repository that provides the minimal usable pieces needed to estimate virtual tractography 
 for patients of stroke who have experienced white matter injury. The necessary first effort needs to be to create
-lesion masks for each patient that is transformed into the MNI space. Using that and the data in baseData.mat you can create
+lesion masks for each patient that is transformed into the MNI space. Using that and the data in baseData.mat  and also download the streamlines from 
+https://figshare.com/s/c9dc7ed58127eb1082cb you can create
 virtual structural connectomes for patients. Read the corresponding paper for more details: 
   
 Wodeyar, A. et al. (2019) Influence of damage to the structural connectome on functional and effective connectivity in resting state fMRI
